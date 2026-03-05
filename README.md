@@ -14,7 +14,9 @@ AI学习小工具Demo，将中长视频转成清晰文本和结构化笔记
    docker run -p 8501:8501 learnflow
 <img width="857" height="792" alt="image" src="https://github.com/user-attachments/assets/007c8aae-f310-4247-8b1c-92ae65e019d8" />
 <img width="807" height="726" alt="image" src="https://github.com/user-attachments/assets/e44bb2dd-167a-454a-934e-f2466e208994" />
+<img width="825" height="750" alt="image" src="https://github.com/user-attachments/assets/d8d68a16-581a-4e92-9849-96765b6f071d" />
 
-<img width="818" height="735" alt="image" src="https://github.com/user-attachments/assets/55ad9cb8-33f0-4055-a4ba-fe65b13ed2cd" />
+<img width="830" height="561" alt="image" src="https://github.com/user-attachments/assets/1d9cf29a-8689-484e-aa1f-aed53ef251e0" />
+
 
 
