@@ -13,7 +13,7 @@ AI学习小工具Demo，将中长视频转成清晰文本和结构化笔记
    - docker build -t learnflow .
    - docker run -p 8501:8501 learnflow
 
-## 🛠️ 使用步骤 (User Guide)
+## 🧭 使用步骤 (User Guide)
 1. 左侧选择直接输入视频链接🔗 或者 上传本地文件：mp3,mp4,m4a
 2. 点击“开始榨取知识”，等待程序解析整理
 3. 最终可以得到：
